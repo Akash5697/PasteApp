@@ -1,0 +1,18 @@
+{
+    "routes":[
+        {
+          "src":"/",
+          "dest":"/"
+        },
+      
+        {
+          "src":"/pastes",
+          "dest":"/"
+        },
+
+        {
+            "src":"/pastes/:id",
+            "dest":"/"
+        }
+     ]
+  }
